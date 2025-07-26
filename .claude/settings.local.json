@@ -1,0 +1,16 @@
+{
+  "permissions": {
+    "allow": [
+      "mcp__jira__jira_get_issue",
+      "mcp__jira__jira_update_issue",
+      "mcp__jira__jira_add_comment",
+      "Bash(mkdir:*)",
+      "Bash(python:*)",
+      "Bash(venv\\Scripts\\activate:*)",
+      "Bash(pip install:*)",
+      "Bash(source:*)",
+      "Bash(git init:*)"
+    ],
+    "deny": []
+  }
+}
